@@ -1,0 +1,180 @@
+body{
+    font-family: 'Crimson Text', serif;
+    
+}
+.clear-div{
+    clear:both;
+}
+
+
+
+.heading{
+    color:red;
+}
+.top-left{
+    width:40%;
+    float:left;
+    margin:3%;
+    padding:2%;
+    
+
+}
+.top-right{
+    width:40%;
+    float:right;
+    margin:3%;
+    padding:2%;
+    
+}
+.heading-image{
+    width:70%;
+}
+.top-btn{
+    text-decoration:none;
+    font-size: 15px;
+    background-color:red;
+    color:white;
+    border-radius: 10px;
+    padding:10px 30px 10px 30px;
+
+}
+.top-btn:hover{
+    background-color:blue;
+    color:red;
+}
+
+.midle-left{
+    width:40%;
+    float:left;
+    margin:3%;
+    padding:2%;
+    
+
+}
+.midle-right{
+    width:40%;
+    float:left;
+    margin:3%;
+    padding:2%;
+   
+}
+.midle-image{
+    width:70%;
+    margin-top: 50px;
+}
+.midle-btn{
+    text-decoration:none;
+    font-size: 15px;
+    background-color:red;
+    color:white;
+    border-radius: 10px;
+    padding:10px 30px 10px 30px;
+
+
+}
+.midle-btn:hover{
+    background-color:yellow;
+    color:black;
+}
+
+.footer-sec{
+    background-color:burlywood;
+    width:100%;
+    height: 450px;
+    text-align: center;
+    padding-top: 40px;
+    color:darkblue;
+}
+.footer-left{
+    width:27%;
+    float:left;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top:5px;
+    margin-bottom:25px;
+    border-radius: 8px;
+    text-align: left;
+    margin: 10px 10px 10px 30px;
+    padding-left:50px;
+
+    
+}
+.footer-midle{
+    width:27%;
+    float:left;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top:5px;
+    margin-bottom:25px;
+    border-radius: 8px;
+    text-align: left;
+    margin: 10px;
+    padding-left:50px;}
+
+
+
+
+.footer-right{
+    width:27%;
+    float:left;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top:5px;
+    margin-bottom:25px;
+    border-radius: 8px;
+    text-align: left;
+    margin: 10px;
+    padding-left:50px;}
+
+
+
+.img-one{
+    width:80%;
+}
+.img-two{
+    width:80%;
+}
+.img-three{
+    width:80%;
+}
+.section-close{
+    width:100%;
+    height: 100%;
+    margin-top: 100px;
+    background-image: ;
+
+
+}
+.footer-image{
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.chat{
+    text-decoration:none;
+    font-size: 15px;
+    background-color:red;
+    color:white;
+    border-radius: 10px;
+    padding:10px 30px 10px 30px;
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+.left-left{
+    
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+}
+.right-right{
+    position: absolute;
+        bottom: 8px;
+        left: 16px;
+}
+    
